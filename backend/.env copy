@@ -1,0 +1,4 @@
+REACT_APP_API=https://thewateraccident.000webhostapp.com/
+REACT_APP_PATH=https://songkran-khammoon.github.io/APIWaterAccident/
+# REACT_APP_API=https://thewateraccident.000webhostapp.com/
+# REACT_APP_PATH=http://localhost:3000/APIWaterAccident/
